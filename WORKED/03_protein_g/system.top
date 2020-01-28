@@ -1,0 +1,16 @@
+#include "martini.itp"
+#include "martini_v2.0_ions.itp"
+
+
+
+#include "Protein_A.itp"
+
+[ system ]
+; name
+Martini system from /koti/pleprovo/teaching/in_silico_methodologies/2020/practicals/ISM2020_practical_session_7_md/03_protein_g/3mp9_ready.pdb
+
+[ molecules ]
+; name        number
+Protein_A 	 1
+W           965
+NA               5

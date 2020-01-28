@@ -1,0 +1,22 @@
+# This file was created Tue Jan 28 02:24:44 2020
+# Created by:
+#                       :-) GROMACS - gmx rmsf, 2018.1 (-:
+# 
+# Executable:   /usr/bin/gmx
+# Data prefix:  /usr
+# Working dir:  /home/pleprovo/teaching/2020/practicals/ISM2020_practical_session_7_md/WORKED/02_small_peptide
+# Command line:
+#   gmx rmsf -f nojump.xtc -s prod.tpr -o rmsf.xvg -res
+# gmx rmsf is part of G R O M A C S:
+#
+# GROningen MAchine for Chemical Simulation
+#
+@    title "RMS fluctuation"
+@    xaxis  label "Residue"
+@    yaxis  label "(nm)"
+@TYPE xy
+    2   0.1159
+    3   0.0833
+    4   0.1337
+    5   0.0954
+    6   0.1278

@@ -1,0 +1,3 @@
+[submodule "martini/martinize.py"]
+	path = martini/martinize.py
+	url = https://github.com/cgmartini/martinize.py

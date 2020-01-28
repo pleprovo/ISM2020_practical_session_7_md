@@ -1,0 +1,78 @@
+# This file was created Tue Jan 28 07:43:15 2020
+# Created by:
+#                       :-) GROMACS - gmx rmsf, 2019.4 (-:
+# 
+# Executable:   /localdisk/local/gromacs/2019.4/bin/gmx_2019.4
+# Data prefix:  /localdisk/local/gromacs/2019.4
+# Working dir:  /koti/pleprovo/teaching/in_silico_methodologies/2020/practicals/ISM2020_practical_session_7_md/03_protein_g
+# Command line:
+#   gmx_2019.4 rmsf -f viz.xtc -s prod.tpr -o rmsf.xvg -res -n index.ndx
+# gmx rmsf is part of G R O M A C S:
+#
+# Gravel Rubs Often Many Awfully Cauterized Sores
+#
+@    title "RMS fluctuation"
+@    xaxis  label "Residue"
+@    yaxis  label "(nm)"
+@TYPE xy
+    1   0.6849
+    2   0.5448
+    3   0.4840
+    4   0.4201
+    5   0.4016
+    6   0.3932
+    7   0.3414
+    8   0.2831
+    9   0.2745
+   10   0.2850
+   11   0.3060
+   12   0.3188
+   13   0.3483
+   14   0.3813
+   15   0.4612
+   16   0.4747
+   17   0.4542
+   18   0.4779
+   19   0.4389
+   20   0.3949
+   21   0.3535
+   22   0.3726
+   23   0.3503
+   24   0.3929
+   25   0.4024
+   26   0.3252
+   27   0.3340
+   28   0.3446
+   29   0.3206
+   30   0.2812
+   31   0.2249
+   32   0.2018
+   33   0.1903
+   34   0.1813
+   35   0.1559
+   36   0.1765
+   37   0.2053
+   38   0.2365
+   39   0.2585
+   40   0.2982
+   41   0.3480
+   42   0.3629
+   43   0.3675
+   44   0.3837
+   45   0.3557
+   46   0.3365
+   47   0.3141
+   48   0.2519
+   49   0.2507
+   50   0.2541
+   51   0.3350
+   52   0.3732
+   53   0.4145
+   54   0.3846
+   55   0.2860
+   56   0.2530
+   57   0.2027
+   58   0.2314
+   59   0.2565
+   60   0.3205
+   61   0.3630
